@@ -1,12 +1,11 @@
-<header>
-    <nav class="navbar">
-        <img src="logo-loja.png" alt="Logo Loja Delicada" class="logo-img" />
-        <ul>
-            <li><a href="#inicio">Início</a></li>
-            <li><a href="#servicos">Serviço</a></li>
-            <li><a href="#contato">Contato</a></li>
-        </ul>
-    </nav>
-</header>
 
+# 🌸 Sterferraz – Atelier de Costuras
+
+Bem-vindo(a) ao repositório oficial do site da **Sterferraz**, um atelier de costuras feito com carinho, elegância e atenção aos detalhes. ✂️✨
+
+## 💖 Sobre o projeto
+
+Este site foi criado para representar visualmente a delicadeza e sofisticação da marca Sterferraz. Possui um design limpo, paleta rosé gold, ícones encantadores e um layout adaptado para dispositivos móveis.
+
+## 📂 Estrutura
 
