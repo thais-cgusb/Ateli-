@@ -8,3 +8,7 @@
         </ul>
     </nav>
 </header>
+.logo-img {
+  height: 60px;
+  margin-right: 1rem;
+}
